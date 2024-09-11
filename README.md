@@ -2,7 +2,7 @@
 - 👀 I’m interested in Creating Sustainable solutions for practical problems using Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Projects including Finance
-- 📫 How to reach me jain!gaurang@gmail.com
+- 📫 How to reach me jain1gaurang@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
