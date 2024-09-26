@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Projects including Finance
 - 📫 How to reach me jain1gaurang@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: THE MORE U KNOW THE LESS U KNOW
 
 <!---
 GaurangJain1/GaurangJain1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
